@@ -26,8 +26,6 @@ O processo incluiu:
 
 ## Links dos Experimentos no Azure Machine Learning
 
-- 🔗 [Pipeline de Regressão Linear no Azure ML](## Links dos Experimentos no Azure Machine Learning
-
 - 🔗 [Pipeline de Regressão Linear no Azure ML](https://ml.azure.com/experiments/id/2507dc71-0cf3-4ac5-8be6-c6aa7e47f850/runs/f39686b9-f7b9-4e4e-820b-2fde9f063e74?wsid=/subscriptions/a958981a-0c43-4251-8922-fb830f08ae8e/resourcegroups/rg-dio-projeto/providers/Microsoft.MachineLearningServices/workspaces/workspace-dio&tid=51ebcf31-5839-412e-83bb-801a2ba78627#)
 - 🤖 [Experimento de ML Automatizado](https://ml.azure.com/experiments/id/4a783ecf-27fa-4ad9-877d-26606a1da717/runs/quiet_lion_m86g4xbb12?wsid=/subscriptions/a958981a-0c43-4251-8922-fb830f08ae8e/resourcegroups/rg-dio-projeto/providers/Microsoft.MachineLearningServices/workspaces/workspace-dio&tid=51ebcf31-5839-412e-83bb-801a2ba78627)
 > É necessário ter acesso ao workspace do Azure para visualizar os links acima.
