@@ -1,0 +1,5 @@
+A inteligência artificial está transformando o mundo.
+O aprendizado de máquina permite que sistemas aprendam com dados.
+Estou animado para aplicar IA em problemas reais.
+O Azure Machine Learning facilita a criação de pipelines complexos.
+Os modelos preditivos ajudam empresas a tomar decisões melhores.
