@@ -1,7 +1,7 @@
 # azure-ml-pipeline
 Projeto de machine learning utilizando a plataforma do azure machine learning para prever vendas de sorvete em função do clima.
 
-Durante o desenvolvimento do projeto, foi criada uma pipeline no Azure Machine Learning, que utilizou um cluster de computação (`cpu-cluster`) para rodar um modelo de regressão linear. Dentro do pipeline, foram utilizados componentes personalizados para carregar, processar e analisar sentenças fornecidas pelo usuário (armazenadas na pasta `inputs/`).
+Durante o desenvolvimento do projeto, foi criada uma pipeline no Azure Machine Learning, que utilizou um cluster de computação (`cpu-cluster`) para rodar um modelo de regressão linear.
 
 O processo incluiu:
 
