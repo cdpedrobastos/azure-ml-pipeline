@@ -1,5 +1,11 @@
-A inteligência artificial está transformando o mundo.
-O aprendizado de máquina permite que sistemas aprendam com dados.
-Estou animado para aplicar IA em problemas reais.
-O Azure Machine Learning facilita a criação de pipelines complexos.
-Os modelos preditivos ajudam empresas a tomar decisões melhores.
+Este conjunto de dados representa o volume diário de vendas de sorvetes (em unidades) em função da temperatura média (em °C), durante o período de janeiro a abril de 2025. O objetivo é prever o número de vendas com base na temperatura.
+
+Exemplo de head: 
+
+Data	      Vendas	Temperatura
+01/01/2025	120	    28
+02/01/2025	110	    27
+03/01/2025	130	    29
+04/01/2025	140	    30
+05/01/2025	115	    26
+
